@@ -1,0 +1,8 @@
+D:\workspace\dotnetCore\AspNetCoreDocker\bin\Debug\netcoreapp1.1\AspNetCoreDocker.deps.json
+D:\workspace\dotnetCore\AspNetCoreDocker\bin\Debug\netcoreapp1.1\AspNetCoreDocker.runtimeconfig.json
+D:\workspace\dotnetCore\AspNetCoreDocker\bin\Debug\netcoreapp1.1\AspNetCoreDocker.runtimeconfig.dev.json
+D:\workspace\dotnetCore\AspNetCoreDocker\bin\Debug\netcoreapp1.1\AspNetCoreDocker.dll
+D:\workspace\dotnetCore\AspNetCoreDocker\bin\Debug\netcoreapp1.1\AspNetCoreDocker.pdb
+D:\workspace\dotnetCore\AspNetCoreDocker\obj\Debug\netcoreapp1.1\AspNetCoreDocker.AssemblyInfo.cs
+D:\workspace\dotnetCore\AspNetCoreDocker\obj\Debug\netcoreapp1.1\AspNetCoreDocker.dll
+D:\workspace\dotnetCore\AspNetCoreDocker\obj\Debug\netcoreapp1.1\AspNetCoreDocker.pdb
