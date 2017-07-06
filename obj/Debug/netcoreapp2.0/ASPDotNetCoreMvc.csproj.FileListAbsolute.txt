@@ -1,0 +1,12 @@
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\bin\Debug\netcoreapp2.0\x86\e_sqlite3.dll
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\bin\Debug\netcoreapp2.0\x64\e_sqlite3.dll
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\bin\Debug\netcoreapp2.0\ASPDotNetCoreMvc.deps.json
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\bin\Debug\netcoreapp2.0\ASPDotNetCoreMvc.runtimeconfig.json
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\bin\Debug\netcoreapp2.0\ASPDotNetCoreMvc.runtimeconfig.dev.json
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\bin\Debug\netcoreapp2.0\ASPDotNetCoreMvc.dll
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\bin\Debug\netcoreapp2.0\ASPDotNetCoreMvc.pdb
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\obj\Debug\netcoreapp2.0\ASPDotNetCoreMvc.csproj.CoreCompileInputs.cache
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\obj\Debug\netcoreapp2.0\ASPDotNetCoreMvc.AssemblyInfo.cs
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\obj\Debug\netcoreapp2.0\ASPDotNetCoreMvc.dll
+D:\workspace\dotnetCore\ASPDotNetCoreMvc\obj\Debug\netcoreapp2.0\ASPDotNetCoreMvc.pdb
